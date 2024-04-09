@@ -1,3 +1,24 @@
 # CSECON206_Polina
 
-![3a24f2dfe80e774f4ed498fdf2197b18-removebg-preview](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/baa9a3e6-e19c-4162-8f30-99b70945cf66)
+#### 👋 Hello there! Welcome to my corner of GitHub! I'm Polina Konovalova, a passionate advocate for international relations with a knack for machine learning and AI.
+
+#### 🌍 As a rising professional in the dynamic realm of international relations, I'm constantly exploring the intersection of diplomacy, technology, and innovation. My journey led me to delve into the fascinating world of machine learning and artificial intelligence, where I aim to bridge the gap between traditional diplomacy and cutting-edge technology.
+
+![IMG_2127](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/a2e2515c-5c2c-4ddd-94cc-b60814630d3e)
+
+## 💡 I am interested in
+- International Relations
+- Machine Learning
+- Geopolitical Analysis
+
+## 🪄 My Skillset
+- Python
+- R
+- Machine Learning
+
+## 📚 Repository Structure
+This repository compiles my solutions to Problem Set 1 for the COMSCI/ECON 206 Computational Microeconomics course instructed by Professor Luyao Zhang. Each folder and file showcases my approach to the course challenges, highlighting my analytical skills and grasp of the subject matter.
+
+## 📎 Table of Contents
+[]
+[]
