@@ -1,11 +1,13 @@
 # 📌 MILESTONE 2
 ## QUESTION 1
+### Analyze your experience with oTree, identifying pain points in behavioral game theory research. Review related literature and class discussions to understand experimental economics' goals. Propose a software solution that outperforms oTree in at least three aspects, enhancing strategic interaction studies. Highlight why these advancements are crucial.
 
 Albeit not having extensive experience working with oTree, having just discovered the platform through our class activities, I believe that the oTree can be particularly useful for small-scale behavioral game theory research or tests of low-to-medium complexity to be conducted on a group of people. It has a relatively easy-to-understand pipeline and a sufficient body of guidelines on project development, for instance, the one provided by Professor Zhang in collaboration with DKU students back in 2021 (Zhang et al. 2021). I will refer to my example of attempting to design a Prisoner’s Dilemma game involving more stakeholders (since this experience can be useful for understanding more complex structures and algorithms at play), but the program only allowed me to work with two players and limited choice of the influence factors to some decisions (which, I want to point out, may have been due to my limited experience with the program, which I will need to breach in the future). Therefore, I want to acknowledge that some potential areas for improvement of the interactive features of the platform may include wider customization for the provided problem sets, introducing new potential behavioral game theory problems (for instance, cake-cutting, which can be a useful point of analysis applicable to different fields, particularly economics), and (potentially) collaborate with the already present leaders on the market to provide more opportunities for visualization of the outcomes and the user’s interface. These three areas of advancement hold particular value to us and the researchers within the field because of more opportunities presented as a result of the implementation of these developments into the existing program. It is worth acknowledging that the software for oTree remains free and available for use, which can pose an obstacle for the developers to incorporate advanced changes into the existing software. However, having learned how many present companies on the technology market are interested in supporting the development of smaller companies/developers even with a limited financial gain during the conference with company representatives last Friday provides us hope that in the future the oTree software will see more developments integrated, or a different software developer will breach the gap.
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/aebaa8bc-b874-4a17-9bb9-61750d5ca11c)
 
 ## QUESTION 2
+### Delve into the limitations of current multi-agent reinforcement learning (MARL) frameworks, focusing on environment constraints and agent algorithm customizations. Choose a classic game (e.g., Prisoner's Dilemma, Battle of the Sexes, or the Trust Game) to illustrate these limitations. Describe the development process of a MARL agent for your selected game, detailing the definition of states, actions, and rewards grounded in fundamental behavioral assumptions. Your analysis should provide insights into overcoming MARL's current limitations, fostering advancements in the field.
 
 Multi-agent reinforcement learning (MARL) is undoubtedly a tool of high utility when analyzing behavioral game theory largely due to its opportunity to grasp comprehensive dynamics between the group members and assess different social metrics. I had a personal experience witnessing one of the MARL algorithms unfold within the GoBigger game I played in my childhood - only under the name Agar.io. (Zhang 2022) The rules of the game are simple - the players consume particles and other players (smaller than yourself) to grow in size; the final goal of the game is to grow the biggest in size and occupy the whole playing area.
 
@@ -13,9 +15,12 @@ While this framework has seen significant advancements in the last couple of yea
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/ee9d1b21-3746-40e2-aef3-554e38736dd7)
 
-
 ## QUESTION 3
-The future of digital health with federated learning by Rieke, N., Hancox, J., Li, W. et al.
+### Critically engage with existing research in the field of federated learning, using the specific paper presented by the guest speaker as a primary example. Students will assess the paper's research questions, methodologies, and application scenarios and propose new research ideas addressing the identified limitations or gaps.
+
+As we have comprehensively covered the paper during the brilliant discussion by Professor Bing Luo on Friday, I decided to apply this skill to a different paper.
+
+### The future of digital health with federated learning by Rieke, N., Hancox, J., Li, W. et al.
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/0e009f15-bb0c-4452-b5b7-3de554b4ce4d)
 // Chart created with gracious help from Whimsical 
