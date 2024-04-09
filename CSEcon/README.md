@@ -9,7 +9,7 @@ I aspire to connect my life and career with diplomacy and traverse the intricate
 ![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/20f12faa-c69d-420f-9aa4-882d0a7748cf)
 
 
-// Vinton G. Cerf, Robert E. Kahn, Dag Hammarskjöld, pictured from top to bottom
+// Vinton G. Cerf, Robert E. Kahn, Dag Hammarskjöld, pictured from top to bottom. Source: Wikipedia [1-2], Britannica [3]
 
 
 ## QUESTION 2
