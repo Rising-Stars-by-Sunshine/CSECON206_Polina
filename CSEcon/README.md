@@ -4,6 +4,14 @@
 
 I aspire to connect my life and career with diplomacy and traverse the intricate web of international relations with finesse and insight. My aspirations are firmly rooted in my dedication to promoting world peace and harmony. I aim to leverage my multidisciplinary background in international relations, history, policy studies, and computer science to illuminate pathways toward a more tranquil world. Through meticulous research and impassioned advocacy, I seek to cultivate a nuanced understanding of geopolitical dynamics, recognizing the challenges and opportunities that abound in our interconnected world. With each endeavor, I endeavor to inch closer to the noble pursuit of peace, aspiring to one day stand among those honored with the Nobel Prize for Peace. This ambition is not merely personal but stems from a profound conviction that positive change is within our grasp, awaiting only the concerted efforts of dedicated individuals. While it is hard to select just one nominee for the Nobel Prize or the Turing Prize, I was deeply inspired and touched by the groundbreaking work of Vinton G. Cerf and Robert E. Kahn (Turing Award 2004) for inspiring leadership in networking and the design and implementation of the Internet TCP/IP protocol suite. As for the Nobel Prize of Peace, I find the Nobel Peace Prize 1961 awardee Dag Hammarskjöld inspiring and particularly effective in his respective time. He was awarded the victory posthumously "for developing the UN into an effective and constructive international organization, capable of giving life to the principles and aims expressed in the UN Charter” (The Nobel Peace Prize 1961). Both remarkable achievements mark ground in the modern world for developing digital diplomacy, cyber peacebuilding, and the global governance of the digital realm, where diplomacy and technology converge to address international issues in the modern era — and I can contribute to these fields one day.
 
+![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/3083c2a7-18d8-48ea-90d8-b2bedb66ea13) 
+![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/7b454d3d-7b12-46fd-857c-50f916523c9f) 
+![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/20f12faa-c69d-420f-9aa4-882d0a7748cf)
+
+
+// Vinton G. Cerf, Robert E. Kahn, Dag Hammarskjöld, pictured from top to bottom
+
+
 ## QUESTION 2
 ### CS&Econ for a Better Future: How do you perceive the synergy between computer science and economics as a catalyst for steering innovation toward a brighter future? Please present a foundational assertion, followed by multiple specific instances that support your claim, including a reference to a topic discussed at the colloquium on Friday, March 22.
 
@@ -14,6 +22,9 @@ The fields of Computer Science and Economics combined to create a unique field f
 
 Focusing on the intersection of International Relations and AI, if you search through Google Scholar using key keywords “international relations”, “ai”, the extensive research body would cover the potential threats AI poses for global security and peace for its extensive application — informed by AI technologies playing a great role in modern security, where they are used both to enhance defense mechanisms against security threats and to develop more sophisticated offensive capabilities in the realm of warfare, raising concerns about stability and escalation in international relations, the navigation of automated weaponry (Bode and Qiao-Franco 2024) (Jensen et al. 2019). As one of the literature pieces we covered in class, the big question that arises in this intersection is rationality - to what extent is AI rational, and a potential answer might be in the findings of Chen et al. (2023) that claim that a certain part of AI, LLM (like ChatGPT), are rational in their decisions, which can give us an insight of AI rationality in general. A different question that is worth addressing pertains to AI training — what happens if AI is trained irrationally? How is rationality evaluated in this complex field? 
 
+![GettyImages-1206796363](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/d30c6546-b645-407e-a1a7-1a36bddcab11)
+// image taken from https://www.aljazeera.com/opinions/2023/5/17/what-is-the-political-agenda-of-artificial-intelligence
+
 ## Bibliography
 
 Bode, Ingvild, and Guangyu Qiao-Franco. "AI Geopolitics and International Relations: A Divided World Behind Contested Conceptions of Human Control." In Handbook on Public Policy and Artificial Intelligence. Edward Elgar Publishing, 2024.
@@ -23,4 +34,5 @@ Chen, Yiting, Tracy Xiao Liu, You Shan, and Songfa Zhong. 2023. “The Emergence
 Jensen, Benjamin M., Christopher Whyte, and Scott Cuomo. "Algorithms at war: the promise, peril, and limits of artificial intelligence." International Studies Review 22, no. 3 (2020): 526-550.
 
 The Nobel Peace Prize 1961. NobelPrize.org. Nobel Prize Outreach AB 2024. Sun. 24 Mar https://www.nobelprize.org/prizes/peace/1961/summary/
+
 Tong, Xin, Diane Gromala, Seyedeh Pegah Kiaei Ziabari, and Christopher D Shaw. 2020. “Designing a Virtual Reality Game for Promoting Empathy toward Patients with Chronic Pain: Feasibility and Usability Study.” JMIR Serious Games 8 (3): e17354. https://doi.org/10.2196/17354.
