@@ -4,11 +4,16 @@
 
 I aspire to connect my life and career with diplomacy and traverse the intricate web of international relations with finesse and insight. My aspirations are firmly rooted in my dedication to promoting world peace and harmony. I aim to leverage my multidisciplinary background in international relations, history, policy studies, and computer science to illuminate pathways toward a more tranquil world. Through meticulous research and impassioned advocacy, I seek to cultivate a nuanced understanding of geopolitical dynamics, recognizing the challenges and opportunities that abound in our interconnected world. With each endeavor, I endeavor to inch closer to the noble pursuit of peace, aspiring to one day stand among those honored with the Nobel Prize for Peace. This ambition is not merely personal but stems from a profound conviction that positive change is within our grasp, awaiting only the concerted efforts of dedicated individuals. While it is hard to select just one nominee for the Nobel Prize or the Turing Prize, I was deeply inspired and touched by the groundbreaking work of Vinton G. Cerf and Robert E. Kahn (Turing Award 2004) (Figure 1 and Figure 2) for inspiring leadership in networking and the design and implementation of the Internet TCP/IP protocol suite. As for the Nobel Prize of Peace, I find the Nobel Peace Prize 1961 awardee Dag Hammarskjöld (Figure 3) inspiring and particularly effective in his respective time. He was awarded the victory posthumously "for developing the UN into an effective and constructive international organization, capable of giving life to the principles and aims expressed in the UN Charter” (The Nobel Peace Prize 1961). Both remarkable achievements mark ground in the modern world for developing digital diplomacy, cyber peacebuilding, and the global governance of the digital realm, where diplomacy and technology converge to address international issues in the modern era — and I can contribute to these fields one day.
 
-![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/3083c2a7-18d8-48ea-90d8-b2bedb66ea13) 
+<img src="https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/3083c2a7-18d8-48ea-90d8-b2bedb66ea13" alt="image" width="600">
+
 Figure 1. Vinton G. Cerf. Source: Wikipedia
-![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/7b454d3d-7b12-46fd-857c-50f916523c9f) 
+
+<img src="https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/7b454d3d-7b12-46fd-857c-50f916523c9f" alt="image" width="600">
+
 Figure 2. Robert E. Kahn. Source: Wikipedia
-![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/20f12faa-c69d-420f-9aa4-882d0a7748cf)
+
+<img src="https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/20f12faa-c69d-420f-9aa4-882d0a7748cf" alt="image" width="600">
+
 Figure 3. Dag Hammarskjöld. Source: Britannica
 
 
