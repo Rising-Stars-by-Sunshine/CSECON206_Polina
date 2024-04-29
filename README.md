@@ -4,7 +4,7 @@
 
 #### 🌍 As a rising professional in the dynamic realm of international relations, I'm constantly exploring the intersection of diplomacy, technology, and innovation. My journey led me to delve into the fascinating world of machine learning and artificial intelligence, where I aim to bridge the gap between traditional diplomacy and cutting-edge technology.
 
-![IMG_2127](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/a2e2515c-5c2c-4ddd-94cc-b60814630d3e)
+![Headshot](https://github.com/Rising-Stars-by-Sunshine/CSECON206_Polina/assets/148934457/47513fc1-b26f-4371-8038-34d31a17971f)
 
 ## 💡 I am interested in
 - International Relations
